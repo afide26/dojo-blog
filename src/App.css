@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-title{
+  font-size: 25px;
+  font-weight: bold;
 }
 
 @media (prefers-reduced-motion: no-preference) {
