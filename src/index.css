@@ -61,3 +61,29 @@
 .author:first-letter{
   text-transform: capitalize;
 }
+
+.blog-preview a{
+  cursor:pointer;
+  text-decoration: none;
+}
+
+/* blog details page */
+.blog-details h2{
+  font-size: 20px;
+  color:#f1356d;
+  margin-bottom: 10px;
+}
+
+.blog-details div{
+  margin: 20px 0;
+  line-height: 1.5;
+}
+
+.blog-details button{
+  background: #f1356d;
+  color: #fff;
+  border:0;
+  padding: 8px;
+  border-radius: 2px;
+  cursor: pointer;
+}
