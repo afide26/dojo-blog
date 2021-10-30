@@ -18,7 +18,9 @@
 .navbar h1, .nav-title{
   color: #f1356d;
 }
-
+.nav-title-link{
+  margin-left:0 !important;
+}
 .home h1{
   color:#333;
 }
