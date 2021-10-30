@@ -13,15 +13,15 @@
       "id": 2
     },
     {
-      "title": "New",
-      "body": "Test",
+      "title": "Challenge 2",
+      "body": "Deployment to Heroku",
       "author": "",
       "id": 3
     },
     {
-      "title": "New Entry",
-      "body": "Testing again",
-      "author": "yoshi",
+      "title": "Test",
+      "body": "New Entry with author",
+      "author": "mario",
       "id": 4
     }
   ]
